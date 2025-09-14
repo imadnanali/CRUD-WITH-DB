@@ -1,0 +1,12 @@
+.chat{
+    background-color: rgb(219, 254, 255);
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 16px;
+}
+
+.msg{
+    background-color: cadetblue;
+    color: white;
+}
